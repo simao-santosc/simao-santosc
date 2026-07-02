@@ -75,7 +75,7 @@ languages = {
 ## `❯ roadmap --career`
 
 ```
-2025 ──► Bases sólidas: Python · Linux · Redes · CS50
+2026 ──► Bases sólidas: Python · Linux · Redes · CS50
            │
 2026 ──► Primeiros projetos · CTF competitions · GitHub portfolio
            │
